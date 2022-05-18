@@ -1,10 +1,10 @@
 # Geo-Nodes-Edge-Wear
-An edge wear effect using Blender 3.1 geometry nodes and a bevel modifier. 
+An edge wear effect using Blender_3.1.2-Stable geometry nodes and a bevel modifier. 
 
 [Inspired By: Jacob Merrill's video](https://www.youtube.com/watch?v=JkOeYSBW0Sc&t=94s)
 
-![image](https://user-images.githubusercontent.com/11281480/169046868-2b927eec-d797-4a09-8d24-4786960d297b.png)
+![image](https://user-images.githubusercontent.com/11281480/169164423-f6162d4a-5191-4495-9cbc-88e5ae82b5ff.png)
 
-![image](https://user-images.githubusercontent.com/11281480/169047097-fe63277f-7e56-4241-85c6-5a30b8415c95.png)
+![image](https://user-images.githubusercontent.com/11281480/169164455-f1fc37f2-e200-4bee-8bf6-812e3f2d9610.png)
 
-![image](https://user-images.githubusercontent.com/11281480/169047028-937f7431-ee2e-42f9-a82d-5cf51be0b53a.png)
+![image](https://user-images.githubusercontent.com/11281480/169164401-3b297851-6a10-41b1-a2c7-aa2a8853e51b.png)
